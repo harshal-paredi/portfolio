@@ -1,0 +1,32 @@
+[
+  {
+    "courseName": "Google Data Analytics Professional Certificate",
+    "platform": "Coursera",
+    "date": "2025-07-15",
+    "credentialURL": "https://www.coursera.org/account/accomplishments/specialization/certificate"
+  },
+  {
+    "courseName": "The Complete 2024 Web Development Bootcamp",
+    "platform": "Udemy",
+    "date": "2024-12-20",
+    "credentialURL": "https://www.udemy.com/certificate/GUID/"
+  },
+  {
+    "courseName": "AWS Certified Cloud Practitioner",
+    "platform": "Amazon Web Services",
+    "date": "2024-07-01",
+    "credentialURL": "https://www.credly.com/badges/BADGE-ID"
+  },
+  {
+    "courseName": "Certified Associate in Python Programming (PCAP)",
+    "platform": "Python Institute",
+    "date": "2023-09-10",
+    "credentialURL": "https://www.credly.com/badges/PYTHON-BADGE"
+  },
+  {
+    "courseName": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+    "platform": "Microsoft",
+    "date": "2024-02-18",
+    "credentialURL": "https://learn.microsoft.com/en-us/users/harshalparedi/credentials/AZ-900"
+  }
+]

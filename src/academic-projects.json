@@ -1,0 +1,27 @@
+[
+    {
+      "title": "E-commerce Website for Local Artisans",
+      "techStack": ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+      "description": "Built a full-stack e-commerce platform for local artisans with user authentication, product management, and secure payment processing.",
+      "outcome": "Successfully deployed the application, resulting in a 30% increase in sales for participating artisans within the first three months. The project was awarded 'Best Final Year Project' in the department."
+    },
+    {
+      "title": "Real-time Weather Dashboard",
+      "techStack": ["Python", "Flask", "JavaScript", "Chart.js", "OpenWeatherMap API"],
+      "description": "Developed a dynamic web app to display real-time global weather data, featuring interactive charts for temperature, humidity, and wind speed.",
+      "outcome": "Gained hands-on experience with REST APIs and data visualization libraries. The application was noted for its clean UI and fast response time."
+    },
+    {
+        "title": "Sentiment Analysis of Movie Reviews",
+        "techStack": ["Python", "NLTK", "Scikit-learn", "Flask"],
+        "description": "Created a machine learning model to perform sentiment analysis on movie reviews, with a Flask web interface for real-time predictions.",
+        "outcome": "Achieved an accuracy of 88% on the test dataset. Gained a strong understanding of natural language processing (NLP) techniques and model deployment."
+    },
+    {
+        "title": "COVID-19 Data Analysis and Visualization",
+        "techStack": ["Python", "Pandas", "Matplotlib", "Seaborn", "Jupyter Notebook"],
+        "description": "Analyzed a public COVID-19 dataset to identify regional trends, presenting findings through time-series plots and geographical heatmaps.",
+        "outcome": "The project report, including all visualizations, was shared on GitHub and received positive feedback for its clear and insightful presentation of complex data. Developed strong data wrangling and visualization skills."
+    }
+  ]
+  

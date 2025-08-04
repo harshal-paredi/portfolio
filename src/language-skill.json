@@ -1,0 +1,23 @@
+{
+    "languages": [
+      {
+        "name": "English",
+        "spoken": "Fluent",
+        "written": "Professional",
+        "reading": "Professional"
+      },
+      {
+        "name": "Hindi",
+        "spoken": "Fluent",
+        "written": "Proficient",
+        "reading": "Proficient"
+      },
+      {
+        "name": "Gujarati",
+        "spoken": "Native",
+        "written": "Native",
+        "reading": "Native"
+      }
+    ]
+  }
+  

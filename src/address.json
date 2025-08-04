@@ -1,0 +1,24 @@
+{
+    "permanent": {
+      "street": "B 302 Dwarkadhish Ap Gokuldham Soc",
+      "city": "Junagadh",
+      "state": "Gujarat",
+      "zipCode": "362001",
+      "country": "India"
+    },
+    "current": {
+      "street": "150 Feet Ring Road",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "zipCode": "360005",
+      "country": "India"
+    },
+    "correspondence": {
+      "street": "150 Feet Ring Road",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "zipCode": "360005",
+      "country": "India"
+    }
+  }
+  
